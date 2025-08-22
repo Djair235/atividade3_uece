@@ -29,7 +29,7 @@ A substituição por notebooks possibilitará maior mobilidade, permitindo seu u
 | Peso              | Até 2 kg            | Até 1.7 kg         |
 
 **Imagem ilustrativa:**  
-![Dell Inspiron 14 2-in-1 Notebook](img/notebook_inspiron14_2in1.jpg)  
+[Dell Inspiron 14 2-in-1 Notebook](img/notebook_inspiron14_2in1.jpg)  
 *Fonte: Dell Inspiron 14 2-in-1 – imagem usada como referência para as especificações sugeridas.*  
 
 **Links de referência:**  
